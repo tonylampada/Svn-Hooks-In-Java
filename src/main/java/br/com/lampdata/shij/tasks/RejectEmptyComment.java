@@ -1,4 +1,8 @@
-package br.com.lampdata.shij;
+package br.com.lampdata.shij.tasks;
+
+import br.com.lampdata.shij.SVNDelegate;
+import br.com.lampdata.shij.Task;
+import br.com.lampdata.shij.TaskException;
 
 public class RejectEmptyComment extends Task {
 
